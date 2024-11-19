@@ -1,0 +1,7 @@
+.KanbanBoard{
+  display: flex;
+  width: 100%;
+  padding-top: 100px;
+  justify-content: space-evenly;
+  
+}
